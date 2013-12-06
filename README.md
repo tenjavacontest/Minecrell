@@ -1,6 +1,6 @@
-<center>Minecrell | *ten.java Plugin Contest*</center>
+Minecrell | *ten.java Plugin Contest*
 =========
-<center>[![ten.java](http://i.imgur.com/c2y4evp.png)](http://tenjava.com/)</center>
+[![ten.java](http://i.imgur.com/c2y4evp.png)](http://tenjava.com/)
 
 This is my contribution to the [ten.java](http://tenjava.com/) plugin contest!
 
