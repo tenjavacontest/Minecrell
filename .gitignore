@@ -16,7 +16,10 @@
 # https://github.com/github/gitignore/blob/master/Maven.gitignore
 
 target/
-*.releaseBackup
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
 
 # Added for maven-shade-plugin
 dependency-reduced-pom.xml
@@ -181,6 +184,6 @@ Icon
 #############
 ## Linux
 #############
-# https://github.com/github/gitignore/blob/master/Global/OSX.gitignore
+# https://github.com/github/gitignore/blob/master/Global/Linux.gitignore
 
 *~
