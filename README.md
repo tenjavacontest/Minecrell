@@ -7,6 +7,8 @@ This is my contribution to the [ten.java](http://tenjava.com/) plugin contest!
 - __Theme:__ To be announced!
 - __Time:__ [0800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ten.java&iso=20131207T08&p1=136&ah=10)
 
+---------------------------------------
+
 Compilation
 -------------
 - Download & Install [Maven 3](http://maven.apache.org/download.html)
