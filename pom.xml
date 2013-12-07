@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>net.minecrell</groupId>
-    <artifactId>ringbearer</artifactId>
+    <artifactId>RingBearer</artifactId>
 
     <name>RingBearer</name>
     <description>ten.java Plugin Contest</description>
