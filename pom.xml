@@ -20,7 +20,8 @@
     <url>https://github.com/tenjavacontest/Minecrell</url>
 
     <properties>
-        <project.bukkitVersion>RELEASE</project.bukkitVersion>
+        <project.bukkitVersion>LATEST</project.bukkitVersion>
+        <project.bukkitType>craftbukkit</project.bukkitType>
         <project.mainClass>${project.mainPackage}.${project.name}Plugin</project.mainClass>
     </properties>
 
