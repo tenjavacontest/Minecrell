@@ -5,14 +5,14 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class RingBearer extends JavaPlugin {
-    private static RingBearer instance;
+public final class RingBearerPlugin extends JavaPlugin {
+    private static RingBearerPlugin instance;
 
-    public static RingBearer getInstance() {
+    public static RingBearerPlugin getInstance() {
         return instance;
     }
 
-    public RingBearer() {
+    public RingBearerPlugin() {
         Preconditions.checkState(instance == null, "Plugin already initialized");
         instance = this;
     }

@@ -2,8 +2,8 @@ package net.minecrell.ringbearer;
 
 import net.minecrell.ringbearer.util.PluginListener;
 
-public class RingListener extends PluginListener<RingBearer> {
-    public RingListener(RingBearer plugin) {
+public class RingListener extends PluginListener<RingBearerPlugin> {
+    public RingListener(RingBearerPlugin plugin) {
         super(plugin);
     }
 
