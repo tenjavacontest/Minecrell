@@ -5,3 +5,10 @@ description: '${project.description}'
 version: '${project.version}'
 
 author: '${project.author}'
+
+commands:
+  ringbearer:
+    aliases: [lotr]
+    # TODO: Better description :D
+    description: 'ten.java!'
+    usage: None.
