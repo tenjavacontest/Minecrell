@@ -17,6 +17,8 @@ public final class RingBearer extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        new RingListener(this).register();
+
         this.getLogger().info(this.getName() + " enabled.");
     }
 
