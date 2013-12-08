@@ -4,8 +4,11 @@ Minecrell | *ten.java Plugin Contest*
 
 This is my contribution to the [ten.java](http://tenjava.com/) plugin contest!
 
+__The plugin has not been completed as of I was not able to work on it for a long time.__
+
 - __Theme:__ 'Books' - anything regarding any real-world book ever written
 - __Time:__ [0800 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ten.java&iso=20131207T08&p1=136&ah=10)
+- __CraftBukkit version:__ CraftBukkit 1.7 Dev Build
 
 ---------------------------------------
 
